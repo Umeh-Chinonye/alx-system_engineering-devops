@@ -1,2 +1,2 @@
 #!/bin/bash
-list tl | head -n 10
+list -t1 | head -n 10
